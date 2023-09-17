@@ -34,3 +34,8 @@ Laravel + Vuejs Messages Board
    127.0.0.1:8000
 
 API Documentation : https://documenter.getpostman.com/view/29785126/2s9YC7SriU
+
+**Result Preview**
+![image](https://github.com/risqiardiansyah/messages-board-web/assets/45511924/53d32f20-b4f7-471e-8d1b-e604de594058)
+![image](https://github.com/risqiardiansyah/messages-board-web/assets/45511924/062c6a30-5639-4d23-bd87-a89cf657554f)
+
